@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4F83425C
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\mega128.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavreval\inc\stdio.h"
+NODE:M LEVEL:0 LINE:6 "Key1"
+NODE:M LEVEL:0 LINE:7 "Key2"
+NODE:M LEVEL:0 LINE:8 "Key3"
+NODE:I LEVEL:0 LINE:11 "C:\Users\user\Desktop\music Ч копи€\Ton.c"
+NODE:V LEVEL:0 LINE:12 "T1Reload -> R5"
+NODE:V LEVEL:0 LINE:13 "Play -> R2.0"
+NODE:F LEVEL:0 LINE:15 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:29 "timer2_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:38 "main(void)"
